@@ -1,4 +1,7 @@
 <script>
+/* import { invalidateAll } from '$app/navigation'; */
+/*  */
+/* await invalidateAll(); */
 export let data;
 </script>
 
